@@ -1,6 +1,0 @@
-PySide6
-requests
-python-docx
-lxml
-selenium
-python-vlc
